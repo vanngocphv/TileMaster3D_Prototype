@@ -1,0 +1,8 @@
+version: 2
+tpsheetFileNames:
+- Assets/Textures/Texture.tpsheet
+textureFileNames:
+- Assets/Textures/Texture.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
