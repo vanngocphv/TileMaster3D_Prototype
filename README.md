@@ -24,6 +24,7 @@ Date Finished: 22/10/2023 - 12:29 (PM GMT +7)  <br />
 # Feature
 - Like the main game, user will collect 3 same tile in the ground. No more tile remain will finish the game level.
 - In editor, has manager data by using Unity EditorWindow. Name window: Window/Game Config/Setting. The editor will manager all Scriptable asset related to Map/Tile and All Level of the game
+- The current user process and user setting have been saved into two file: "PlayerData.json" (for current user process); "SettingData.json" (for current setting)
 
 # Demo
 - Game link: [itch.io link](https://akibagon.itch.io/tile-master-3d-clone-prototype)
