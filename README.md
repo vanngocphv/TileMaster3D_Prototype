@@ -17,6 +17,7 @@ Date Finished: 22/10/2023 - 12:29 (PM GMT +7)  <br />
 
 # Technologies
 - Create by using Unity 2021.3.26f1
+- Unity3D URP
 - Using TexturePacker for pack image data
 - Has using external asset from Unity Store: [link asset](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080)
 
